@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nicollas</h1>
-<h3 align="center">A passionate backend developer from Brazil </h3>
+<h1 align="center">Olá 👋, eu sou o Nicollas</h1>
+<h3 align="center">Um estudante de desenvolvimento apaixonado por backend! </h3>
 
-- 🌱 I’m currently learning **Java** at <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
+- 🌱 Atualmente estou aprendendo **Java** na <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
 
-- 📫 How to reach me **nicollasafmartins@gmail.com**
+- 📫 Para entrar em contato comigo **nicollasafmartins@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicollasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicollasm" height="30" width="40" /></a>
 </p>
