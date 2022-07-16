@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicollas</h1>
 <h3 align="center">A passionate backend developer from Brazil </h3>
 
-- 🌱 I’m currently learning **Java** at <a href="https://cursos.alura.com.br/">**Alura**</a>
+- 🌱 I’m currently learning **Java** at <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
 
 - 📫 How to reach me **nicollasafmartins@gmail.com**
 
