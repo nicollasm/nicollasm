@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Nicollas</h1>
-<h3 align="center">Curioso por natureza e apaixonado por programação </h3>
+<h3 align="center">Curioso por natureza e apaixonado em programação :heart:</h3>
 <br>
 
 - 🌱 Atualmente estou aprendendo **Java** na <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
