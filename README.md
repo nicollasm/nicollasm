@@ -1,11 +1,9 @@
-<h1 align="center">Olá 👋, eu sou o Nicollas</h1>
-<h3 align="center">Curioso por natureza e apaixonado em programação :heart:</h3>
-<br>
+## Olá 👋, eu sou o Nicollas</h1>
 
 - 🌱 Atualmente estou aprendendo **Java** na <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
 
 - 📫 Para entrar em contato **nicollasafmartins@gmail.com**
-<br>
+
 
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
