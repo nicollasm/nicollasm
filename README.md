@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou o Nicollas</h1>
 
-- 🌱 Atualmente estou aprendendo **Java** na <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
+- 🌱 Atualmente estou aprendendo **Spring framework** na <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
 
 - 📫 Para entrar em contato **nicollasafmartins@gmail.com**
 
