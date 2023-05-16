@@ -1,7 +1,5 @@
 ## Olá 👋 eu sou o Nicollas</h1>
 
-- 🌱 Atualmente estou aprendendo **Spring Framework** na <a href="https://cursos.alura.com.br/" target="_blank">**Alura**</a>
-
 - 📫 Para entrar em contato **nicollasafmartins@gmail.com**
 
 
