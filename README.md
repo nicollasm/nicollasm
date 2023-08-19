@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, sou o Nick!</h1>
-<h3 align="center">Desenvolvedor backend apaixonado do Brasil 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicollasm&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="nicollasm" /> </p>
 
