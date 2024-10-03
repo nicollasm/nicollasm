@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicollasncl" target="blank"><img src="https://img.shields.io/twitter/follow/nicollasncl?logo=twitter&style=for-the-badge" alt="nicollasncl" /></a> </p>
 
-- 📫 Como me encontrar: **nicollasafmartins@gmail.com**
+- 📫 Contato: **nicollasafmartins@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
