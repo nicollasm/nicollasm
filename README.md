@@ -1,1 +1,1 @@
-✉️ Contact: **nicollasafmartins@gmail.com**
+📬 Reach out: nicollasafmartins@gmail.com
